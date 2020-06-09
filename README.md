@@ -30,7 +30,9 @@ npm run serve
 npm run build
 
 ***
-### Blog
+### Blog :
+
+https://knaka0209.hatenablog.com/entry/lara58_28cross_vue
 
 ***
 
