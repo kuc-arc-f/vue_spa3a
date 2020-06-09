@@ -19,12 +19,13 @@
         <div class="page_info_wrap">
             <ul>
                 <li>このページの機能は、オープンソースで公開しております。<br />
-                    <a  href='http://localhost:8000/'>
+                    <a  href='https://github.com/kuc-arc-f/vue_spa3a'>https://github.com/kuc-arc-f/vue_spa3a
                     </a><br />
                     <br />
                 </li>
                 <li>関連ブログ:<br />
-                    <a  href='http://localhost:8000/'>
+                    <a  href='https://knaka0209.hatenablog.com/entry/lara58_28cross_vue'>
+                        https://knaka0209.hatenablog.com/entry/lara58_28cross_vue
                     </a><br />
                 </li>
             </ul>

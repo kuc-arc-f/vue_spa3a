@@ -18,7 +18,7 @@ export default new Router({
 	routes: [
 		{ path: '/', component: home },
 		{ path: '/about', component: about },
-		/* todos */
+		/* tasks */
 		{ path: '/tasks/edit/:id', component: tasksEdit },
 		{ path: '/tasks', component: tasksIndex },
 		{ path: '/tasks/new', component: tasksNew },
